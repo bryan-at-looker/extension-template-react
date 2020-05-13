@@ -902,6 +902,13 @@
     polished "^3.4.4"
     styled-system "^5.1.4"
 
+"@looker/embed-sdk@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@looker/embed-sdk/-/embed-sdk-1.1.0.tgz#356e79644be0a815d77cf87a0c5c28c096cb7525"
+  integrity sha512-LKIRR2+qkS9Atauy7l1bpSgfzFmQhg1dqMm2rtu+1Uwk+VL2Z+OCco1myRq2LQnIajU7jC3JYZwH40GvFoaS9w==
+  dependencies:
+    "@looker/chatty" "^2.2.0"
+
 "@looker/extension-sdk-react@^0.4.0":
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/@looker/extension-sdk-react/-/extension-sdk-react-0.4.0.tgz#301454680f67d44a8cca6025959eae9c9b98277c"
